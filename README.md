@@ -31,3 +31,21 @@ ROLL通用彩票信息：https://www.explinks.com/api/scd20240409344416e673a3
 百度AI文章标签：https://www.explinks.com/api/scd20240409308816e67364
 
 百度AI新闻摘要：https://www.explinks.com/api/scd20240409336116e67399
+
+提取目标网站所有超链接：https://www.explinks.com/api/scd20240409250716e672f2
+
+骚扰电话查询：https://www.explinks.com/api/scd20240409242516e672e0
+
+网页文字提取：https://www.explinks.com/api/scd20240409258816e67306
+
+AWS Lambda(无服务器计算)：https://www.explinks.com/api/scd2024041045583aa6b626
+
+AWS IAM Identity Center(集中管理多账户访问):https://www.explinks.com/api/scd2024041055543aa6b700
+
+Amazon Cognito(用户身份认证授权):https://www.explinks.com/api/scd2024041054903aa6b6f2
+
+AWS HealthLake(健康数据湖):https://www.explinks.com/api/scd2024041044183aa6b609
+
+AWS Step Functions(AWS工作流协调):https://www.explinks.com/api/scd2024041054163aa6b6e9
+
+Amazon Simple Queue Service(SQS消息队列):https://www.explinks.com/api/scd2024041053453aa6b6d9
