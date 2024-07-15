@@ -49,3 +49,23 @@ AWS HealthLake(健康数据湖):https://www.explinks.com/api/scd2024041044183aa6
 AWS Step Functions(AWS工作流协调):https://www.explinks.com/api/scd2024041054163aa6b6e9
 
 Amazon Simple Queue Service(SQS消息队列):https://www.explinks.com/api/scd2024041053453aa6b6d9
+
+Amazon Simple Notification Service(SNS消息发布订阅)：https://www.explinks.com/api/scd2024041052733aa6b6c6
+
+AWS ServiceCatalog(目录管理服务)：https://www.explinks.com/api/scd2024041052063aa6b6b9
+
+AWS Application DiscoveryService(应用程序发现服务)：https://www.explinks.com/api/scd2024041051323aa6b6a2
+
+Amazon CloudFront(内容分发加速)：https://www.explinks.com/api/scd2024041058193aa6b740
+
+AWS Artifact(AWS合规性文档获取)：https://www.explinks.com/api/scd2024041057453aa6b731
+
+AWS Key Management Service(加密密钥管理服务)：https://www.explinks.com/api/scd2024041056793aa6b726
+
+Amazon CloudWatch(云监控)：https://www.explinks.com/api/scd2024041048473aa6b669
+
+AWS Glue(数据融合加密)：https://www.explinks.com/api/scd2024041049793aa6b681
+
+Amazon Elastic Container Service(容器编排服务)：https://www.explinks.com/api/scd2024041050663aa6b694
+
+AWS CloudTrail(云操作审计追踪)：https://www.explinks.com/api/scd2024041047723aa6b653
