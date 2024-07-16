@@ -69,3 +69,17 @@ AWS Glue(数据融合加密)：https://www.explinks.com/api/scd2024041049793aa6b
 Amazon Elastic Container Service(容器编排服务)：https://www.explinks.com/api/scd2024041050663aa6b694
 
 AWS CloudTrail(云操作审计追踪)：https://www.explinks.com/api/scd2024041047723aa6b653
+
+AWS CloudFormation(云基础信息)：https://www.explinks.com/api/scd2024041047023aa6b647
+
+Amazon ECS(云服务器)：https://www.explinks.com/api/scd2024041046243aa6b639
+
+Azure 语音翻译：https://www.explinks.com/api/scd20240409489016e675a7
+
+Azure Health Bot：https://www.explinks.com/api/scd20240409416216e67517
+
+黄金数据：https://www.explinks.com/api/fintech_gold_data
+
+货币汇率：https://www.explinks.com/api/fintech_currency_exchange_rate
+
+成语大全：https://www.explinks.com/api/knowledge_cheng_yu_collection
