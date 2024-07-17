@@ -83,3 +83,21 @@ Azure Health Bot：https://www.explinks.com/api/scd20240409416216e67517
 货币汇率：https://www.explinks.com/api/fintech_currency_exchange_rate
 
 成语大全：https://www.explinks.com/api/knowledge_cheng_yu_collection
+
+新华字典：https://www.explinks.com/api/knowledge_xinhua_dictionary
+
+节假日：https://www.explinks.com/api/life_holidays_information
+
+万年历：https://www.explinks.com/api/life_perpetual_calendar
+
+全球行政区划查询：https://www.explinks.com/api/location_global_administrative_division
+
+文本翻译：https://www.explinks.com/api/life_text_translation
+
+百度AI评论观点抽取：https://www.explinks.com/api/scd20240409316016e67370
+
+百度AI词法分析：https://www.explinks.com/api/scd20240409267816e67313
+
+百度地图批量算路服务-路线规划：https://www.explinks.com/api/scd20240409226016e672c1
+
+AWS Storage Gateway(云存储网关)：https://www.explinks.com/api/scd2024041049143aa6b677
