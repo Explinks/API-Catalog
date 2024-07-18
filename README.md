@@ -101,3 +101,15 @@ Azure Health Bot：https://www.explinks.com/api/scd20240409416216e67517
 百度地图批量算路服务-路线规划：https://www.explinks.com/api/scd20240409226016e672c1
 
 AWS Storage Gateway(云存储网关)：https://www.explinks.com/api/scd2024041049143aa6b677
+
+Amazon DynamoDB(NoSQL 数据库服务)：https://www.explinks.com/api/scd2024041044853aa6b614
+
+易客云天气API：https://www.explinks.com/api/scd2024032272511a6b8363
+
+Azure Web PubSub：https://www.explinks.com/api/scd20240409514516e675d2
+
+Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
+
+Azure 开放数据集：https://www.explinks.com/api/scd20240409466116e67575
+
+Azure 逻辑应用：https://www.explinks.com/api/scd20240409433016e67538
