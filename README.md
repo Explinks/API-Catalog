@@ -106,6 +106,9 @@ Amazon DynamoDB(NoSQL 数据库服务)：https://www.explinks.com/api/scd2024041
 
 易客云天气API：https://www.explinks.com/api/scd2024032272511a6b8363
 
+Azure Web PubSub：https://www.explinks.com/api/scd2024060600761276fd69
+
+Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
 Azure Web PubSub：https://www.explinks.com/api/scd20240409514516e675d2
 
 Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
