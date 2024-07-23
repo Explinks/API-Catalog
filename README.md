@@ -109,6 +109,7 @@ Amazon DynamoDB(NoSQL 数据库服务)：https://www.explinks.com/api/scd2024041
 Azure Web PubSub：https://www.explinks.com/api/scd2024060600761276fd69
 
 Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
+
 Azure Web PubSub：https://www.explinks.com/api/scd20240409514516e675d2
 
 Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
@@ -116,3 +117,7 @@ Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
 Azure 开放数据集：https://www.explinks.com/api/scd20240409466116e67575
 
 Azure 逻辑应用：https://www.explinks.com/api/scd20240409433016e67538
+
+Azure Functions：https://www.explinks.com/api/scd20240409407916e67507
+
+Azure 事件网格：https://www.explinks.com/api/scd20240409399616e674f1
