@@ -121,3 +121,5 @@ Azure 逻辑应用：https://www.explinks.com/api/scd20240409433016e67538
 Azure Functions：https://www.explinks.com/api/scd20240409407916e67507
 
 Azure 事件网格：https://www.explinks.com/api/scd20240409399616e674f1
+
+AI写作API接口：https://www.explinks.com/api/scd2024032235331e644e93
