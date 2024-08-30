@@ -20,7 +20,7 @@
 
 <strong>开发集成</strong>
 
-* [新手指导]()
+* [新手指导](https://www.explinks.com/blog/category/api-discovery)
 * [简单身份认证报文协议](https://www.explinks.com/blog/category/api-discovery)
 * [安全身份认证报文协议](https://www.explinks.com/blog/category/api-solution)
 * [多语言SDK](https://www.explinks.com/blog/category/api-integration)
