@@ -1,125 +1,87 @@
-FREE!!!!
+# 幂简集成 - 中国最全的API平台
+[幂简集成](https://www.explinks.com)为开发者提供全面、高效、易用的API集成管理方案，一站搜索、试用、集成国内和国外API。让用户在AI时代全方位接入互联网，用API连接一切服务和算力，实现价值倍增。
+<br >
 
-虚假数据生成服务-FAKERAPI:https://www.explinks.com/api/scd20240624519918779402
+<p>
+    <a href="https://www.explinks.com">
+        <div>
+            <img src="https://github.com/Explinks/API-Resources/blob/main/image.png" width="250" alt="幂简集成 Logo" />
+        </div>
+    </a>
+  </p>
 
-srcport网络防御工具:https://www.explinks.com/api/scd2024042385581b284675
+您可以在 [API HUB](https://www.explinks.com/api) 发现各种类型的API，热门分类如：[免费API](https://www.explinks.com/bookmark/free_api_nav)、[人工智能API](https://www.explinks.com/bookmark/ai_api_nav)、[数据API](https://www.explinks.com/bookmark/data_api_nav)
 
-Reddio NFT:https://www.explinks.com/api/scd2024042395431b284656
 
-火山引擎歌词对齐:https://www.explinks.com/api/scd2024042443163aa6b5d6
 
-输入提示服务-我秀中国:https://www.explinks.com/api/scd202404190077195155e1
+<br >
 
-POI搜索服务-我秀中国：https://www.explinks.com/api/scd20240419727619515553
+## 如何开发集成，可以访问 幂简集成 - 文档中心
 
-大米电竞资讯：https://www.explinks.com/api/scd2024040997430c6da3f3
+<strong>开发集成</strong>
 
-大米城市车辆限行：https://www.explinks.com/api/scd2024041074053aa6b563
+* [新手指导]()
+* [简单身份认证报文协议](https://www.explinks.com/blog/category/api-discovery)
+* [安全身份认证报文协议](https://www.explinks.com/blog/category/api-solution)
+* [多语言SDK](https://www.explinks.com/blog/category/api-integration)
+* [通用编码信息定制](https://www.explinks.com/blog/category/api-integration)
 
-ROLL通用彩票信息：https://www.explinks.com/api/scd20240409344416e673a3
 
-百度AI文章分类：https://www.explinks.com/api/scd20240409300316e67354
+<br />
 
-百度AI中文DNN语言模型：https://www.explinks.com/api/scd20240409275616e67325
+## 掌握更多API知识，可以访问 幂简集成 - 博客
 
-百度AI对话情绪识别：https://www.explinks.com/api/scd20240409291416e67343
+<br >
 
-百度AI文本纠错：https://www.explinks.com/api/scd20240409327216e67387
+<strong>[博客](https://www.explinks.com/blog)分类</strong>
 
-百度AI情感倾向分析：https://www.explinks.com/api/scd20240409284016e67336
+* [API是什么](https://www.explinks.com/blog/category/api-concept)
+* [学习各类API接口](https://www.explinks.com/blog/category/api-discovery)
+* [研究不同的API解决方案](https://www.explinks.com/blog/category/api-solution)
+* [如何集成API？](https://www.explinks.com/blog/category/api-integration)
+* [LICENSE](LICENSE) 
 
-百度AI文章标签：https://www.explinks.com/api/scd20240409308816e67364
+</div>
 
-百度AI新闻摘要：https://www.explinks.com/api/scd20240409336116e67399
+</details>
 
-提取目标网站所有超链接：https://www.explinks.com/api/scd20240409250716e672f2
+<br />
 
-骚扰电话查询：https://www.explinks.com/api/scd20240409242516e672e0
+<br />
 
-网页文字提取：https://www.explinks.com/api/scd20240409258816e67306
+## API目录
 
-AWS Lambda(无服务器计算)：https://www.explinks.com/api/scd2024041045583aa6b626
+<strong>[免费API大全](https://www.explinks.com/bookmark/free_api_nav)</strong>
 
-AWS IAM Identity Center(集中管理多账户访问):https://www.explinks.com/api/scd2024041055543aa6b700
+* [免费AI API](#free_ai_api)
+* [免费翻译API](#free_translate_api)
 
-Amazon Cognito(用户身份认证授权):https://www.explinks.com/api/scd2024041054903aa6b6f2
 
-AWS HealthLake(健康数据湖):https://www.explinks.com/api/scd2024041044183aa6b609
 
-AWS Step Functions(AWS工作流协调):https://www.explinks.com/api/scd2024041054163aa6b6e9
+<br >
 
-Amazon Simple Queue Service(SQS消息队列):https://www.explinks.com/api/scd2024041053453aa6b6d9
+### 免费AI API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。
+ | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|
+| | | |
+| | | |
 
-Amazon Simple Notification Service(SNS消息发布订阅)：https://www.explinks.com/api/scd2024041052733aa6b6c6
 
-AWS ServiceCatalog(目录管理服务)：https://www.explinks.com/api/scd2024041052063aa6b6b9
 
-AWS Application DiscoveryService(应用程序发现服务)：https://www.explinks.com/api/scd2024041051323aa6b6a2
+<br />
 
-Amazon CloudFront(内容分发加速)：https://www.explinks.com/api/scd2024041058193aa6b740
+**[⬆ 返回 API 目录](#API目录)**
 
-AWS Artifact(AWS合规性文档获取)：https://www.explinks.com/api/scd2024041057453aa6b731
+<br >
+<br >
 
-AWS Key Management Service(加密密钥管理服务)：https://www.explinks.com/api/scd2024041056793aa6b726
 
-Amazon CloudWatch(云监控)：https://www.explinks.com/api/scd2024041048473aa6b669
+### 免费翻译API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。
+ | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|
+| | | |
 
-AWS Glue(数据融合加密)：https://www.explinks.com/api/scd2024041049793aa6b681
-
-Amazon Elastic Container Service(容器编排服务)：https://www.explinks.com/api/scd2024041050663aa6b694
-
-AWS CloudTrail(云操作审计追踪)：https://www.explinks.com/api/scd2024041047723aa6b653
-
-AWS CloudFormation(云基础信息)：https://www.explinks.com/api/scd2024041047023aa6b647
-
-Amazon ECS(云服务器)：https://www.explinks.com/api/scd2024041046243aa6b639
-
-Azure 语音翻译：https://www.explinks.com/api/scd20240409489016e675a7
-
-Azure Health Bot：https://www.explinks.com/api/scd20240409416216e67517
-
-黄金数据：https://www.explinks.com/api/fintech_gold_data
-
-货币汇率：https://www.explinks.com/api/fintech_currency_exchange_rate
-
-成语大全：https://www.explinks.com/api/knowledge_cheng_yu_collection
-
-新华字典：https://www.explinks.com/api/knowledge_xinhua_dictionary
-
-节假日：https://www.explinks.com/api/life_holidays_information
-
-万年历：https://www.explinks.com/api/life_perpetual_calendar
-
-全球行政区划查询：https://www.explinks.com/api/location_global_administrative_division
-
-文本翻译：https://www.explinks.com/api/life_text_translation
-
-百度AI评论观点抽取：https://www.explinks.com/api/scd20240409316016e67370
-
-百度AI词法分析：https://www.explinks.com/api/scd20240409267816e67313
-
-百度地图批量算路服务-路线规划：https://www.explinks.com/api/scd20240409226016e672c1
-
-AWS Storage Gateway(云存储网关)：https://www.explinks.com/api/scd2024041049143aa6b677
-
-Amazon DynamoDB(NoSQL 数据库服务)：https://www.explinks.com/api/scd2024041044853aa6b614
-
-易客云天气API：https://www.explinks.com/api/scd2024032272511a6b8363
-
-Azure Web PubSub：https://www.explinks.com/api/scd2024060600761276fd69
-
-Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
-
-Azure Web PubSub：https://www.explinks.com/api/scd20240409514516e675d2
-
-Azure 说话人识别：https://www.explinks.com/api/scd20240409473816e67587
-
-Azure 开放数据集：https://www.explinks.com/api/scd20240409466116e67575
-
-Azure 逻辑应用：https://www.explinks.com/api/scd20240409433016e67538
-
-Azure Functions：https://www.explinks.com/api/scd20240409407916e67507
-
-Azure 事件网格：https://www.explinks.com/api/scd20240409399616e674f1
-
-AI写作API接口：https://www.explinks.com/api/scd2024032235331e644e93
