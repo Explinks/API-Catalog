@@ -20,11 +20,11 @@
 
 <strong>开发集成</strong>
 
-* [新手指导]()
-* [简单身份认证报文协议](https://www.explinks.com/blog/category/api-discovery)
-* [安全身份认证报文协议](https://www.explinks.com/blog/category/api-solution)
-* [多语言SDK](https://www.explinks.com/blog/category/api-integration)
-* [通用编码信息定制](https://www.explinks.com/blog/category/api-integration)
+* [新手指导](welcome.md)
+* [简单身份认证报文协议](simple-auth.md)
+* [安全身份认证报文协议](security-auth.md)
+* [多语言SDK](sdk.md)
+* [通用编码信息定制](common-code.md)
 
 
 <br />
@@ -41,10 +41,6 @@
 * [如何集成API？](https://www.explinks.com/blog/category/api-integration)
 
 
-</div>
-
-</details>
-
 <br />
 
 <br />
@@ -55,12 +51,12 @@
 
 * [免费AI API](#免费AI-API)
 * [免费翻译API](#免费翻译API)
-* [免费地图API](#free_map_api)
-* [免费天气API](#free_weather_api)
-* [免费社交媒体API](#free_social_media_api)
-* [免费新闻API](#free_news_api)
-* [免费金融数据API](#free_financial_api)
-* [免费云数据API](#free_clouddata_api)
+* [免费地图API](#免费地图API)
+* [免费天气API](#免费天气API)
+* [免费社交媒体API](#免费社交媒体API)
+* [免费新闻API](#免费新闻API)
+* [免费金融数据API](#免费金融数据API)
+* [免费云数据API](#免费云数据API)
 
 <br />
 
@@ -113,4 +109,42 @@
 |:---|:---|:---|
 | [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。| [去采购](https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/)|
 | | | |
+
+
+### 免费地图API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+
+### 免费天气API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+### 免费社交媒体API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+
+### 免费新闻API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+
+### 免费金融数据API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+### 免费云数据API
+| API | 简介 | 调用地址 |
+|:---|:---|:---|
+| | | |
+
+
+**[⬆ 返回 API 目录](#API目录)**
+
 
