@@ -53,8 +53,8 @@
 
 <strong>[免费API大全](https://www.explinks.com/bookmark/free_api_nav)</strong>
 
-* [免费AI API](#free-ai-api)
-* [免费翻译API](#free-translate-api)
+* [免费AI API](#免费AI-API)
+* [免费翻译API](#免费翻译API)
 * [免费地图API](#free_map_api)
 * [免费天气API](#free_weather_api)
 * [免费社交媒体API](#free_social_media_api)
@@ -91,7 +91,7 @@
 
 <br >
 
-### 免费AI API
+### 免费AI-API
 | API | 简介 | 调用地址 |
 |:---|:---|:---|
 | [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。| [去采购](https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/)|
