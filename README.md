@@ -63,8 +63,7 @@
 ### 免费AI API
 | API | 简介 | 调用地址 |
 |:---|:---|:---|
-| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。
- | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|
+| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。| [去采购](https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/)|
 | | | |
 | | | |
 
@@ -81,7 +80,6 @@
 ### 免费翻译API
 | API | 简介 | 调用地址 |
 |:---|:---|:---|
-| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。
- | [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)|
+| [Azure文本转语音服务-AI语音](https://www.explinks.com/api/scd20240409496716e675b7) | Azure 文本转语音是一项AI语音功能，它可以将文本内容转换为自然发音的语音输出。| [去采购](https://azure.microsoft.com/zh-cn/products/ai-services/text-to-speech/)|
 | | | |
 
