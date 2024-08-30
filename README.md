@@ -53,8 +53,8 @@
 
 <strong>[免费API大全](https://www.explinks.com/bookmark/free_api_nav)</strong>
 
-* [免费AI API](#free_ai_api)
-* [免费翻译API](#free_translate_api)
+* [免费AI API](#free-ai-api)
+* [免费翻译API](#free-translate-api)
 * [免费地图API](#free_map_api)
 * [免费天气API](#free_weather_api)
 * [免费社交媒体API](#free_social_media_api)
