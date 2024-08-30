@@ -39,7 +39,7 @@
 * [学习各类API接口](https://www.explinks.com/blog/category/api-discovery)
 * [研究不同的API解决方案](https://www.explinks.com/blog/category/api-solution)
 * [如何集成API？](https://www.explinks.com/blog/category/api-integration)
-* [LICENSE](LICENSE) 
+
 
 </div>
 
@@ -55,8 +55,39 @@
 
 * [免费AI API](#free_ai_api)
 * [免费翻译API](#free_translate_api)
+* [免费地图API](#free_map_api)
+* [免费天气API](#free_weather_api)
+* [免费社交媒体API](#free_social_media_api)
+* [免费新闻API](#free_news_api)
+* [免费金融数据API](#free_financial_api)
+* [免费云数据API](#free_clouddata_api)
 
+<br />
 
+<strong>[人工智能API大全](https://www.explinks.com/bookmark/ai_api_nav)</strong>
+
+* [AI大模型API](#fai_llm_api)
+* [AI写作API](#ai_write_api)
+* [AI营销API](#ai_marketing_api)
+* [AI图像API](#ai_image_api)
+* [AI聊天机器人API](#ai_chatbot_api)
+  
+
+<br >
+
+<strong>[中国特色API大全](https://www.explinks.com/bookmark/free_api_nav)</strong>
+
+* [中国地理API](#china_geo_api)
+* [中国文化API](#china_culture_api)
+* [中国旅游 - 酒店API](#china_tourism_api)
+* [中国社交媒体API](#china_social_media_api)
+* [中国认证信息API](#china_kyc_api)
+* [中国短信API](#china_sms_api)
+* [中国支付API](#chian_pay_api)
+* [中国电商API](#china_ecommerce_api)
+* [中国美食API](#china_food_api)
+* [中国房屋信息API](#china_real_estate_api)
+* [中国新闻API](#china_news_api)
 
 <br >
 
