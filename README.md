@@ -1,5 +1,5 @@
 # 幂简集成 - 中国最全的API平台
-[幂简集成](https://www.explinks.com){:target="_blank"}为开发者提供全面、高效、易用的API集成管理方案，一站搜索、试用、集成国内和国外API。让用户在AI时代全方位接入互联网，用API连接一切服务和算力，实现价值倍增。
+<a href="https://www.explinks.com" target="_blank">幂简集成</a>为开发者提供全面、高效、易用的API集成管理方案，一站搜索、试用、集成国内和国外API。让用户在AI时代全方位接入互联网，用API连接一切服务和算力，实现价值倍增。
 <br >
 
 <p>
@@ -47,7 +47,7 @@
 
 ## API目录
 
-<strong>[免费API大全](https://www.explinks.com/bookmark/free_api_nav){:target="_blank"}</strong>
+<strong>[免费API大全](https://www.explinks.com/bookmark/free_api_nav)</strong>
 
 * [免费AI API](#免费AI-API)
 * [免费翻译API](#免费翻译API)
