@@ -10,7 +10,7 @@
     </a>
   </p>
 
-幂简集成平台汇集了超过1700多家服务商，确保了服务的广泛性和可靠性。平台提供的API服务数量超过4500个，覆盖从基础数据到高级人工智能的23个一级品类，满足各种业务场景和需求，展现了其在API服务领域的深度和广度。您可以在 [API HUB](https://www.explinks.com/api) 发现各种类型的API，热门分类如：[免费 API 大全](#free-api-directory)、[人工智能API大全](#人工智能API大全)、[中国特色API](#中国特色API大全)
+幂简集成平台汇集了超过1700多家服务商，确保了服务的广泛性和可靠性。平台提供的API服务数量超过4500个，覆盖从基础数据到高级人工智能的23个一级品类，满足各种业务场景和需求，展现了其在API服务领域的深度和广度。您可以在 [API HUB](https://www.explinks.com/api) 发现各种类型的API，热门分类如：[免费 API 大全](#free-api-directory)、[人工智能API大全](#ai-api-directory)、[中国特色API大全](#china-api-directory)
 
 
 <br >
@@ -57,7 +57,7 @@
 
 <br />
 
-#### [人工智能API大全](https://www.explinks.com/bookmark/ai_api_nav) <a name="free-api-directory" style="color: blue;"></a>
+#### [人工智能API大全](https://www.explinks.com/bookmark/ai_api_nav) <a name="ai-api-directory" style="color: blue;"></a>
 
 
 * [AI大模型API](#fai_llm_api)
@@ -69,7 +69,7 @@
 
 <br >
 
-#### [中国特色API大全](https://www.explinks.com/bookmark/free_api_nav) <a name="free-api-directory" style="color: blue;"></a>
+#### [中国特色API大全](https://www.explinks.com/bookmark/free_api_nav) <a name="china-api-directory" style="color: blue;"></a>
 
 
 * [中国地理API](#china_geo_api)
