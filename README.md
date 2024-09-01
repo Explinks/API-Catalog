@@ -43,8 +43,7 @@
 
 ## API目录
 
-<strong>[免费 API 大全](#free-api-directory)</strong>
-##### 免费 API 大全 <a name="free-api-directory"></a>
+#### [免费 API 大全](https://www.explinks.com/bookmark/free_api_nav) <a name="free-api-directory" style="color: blue;"></a>
 
 
 * [免费AI API](#免费AI-API)
