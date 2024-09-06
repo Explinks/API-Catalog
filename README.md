@@ -81,12 +81,6 @@
 | [Writesonic ChatSonic聊天机器人](https://www.explinks.com/api/scd20240425270209ebce86) | Writesonic ChatSonic 聊天机器人，它类似于 ChatGPT。不过其具备独特优势，不仅拥有实时数据，还可进行图像以及语音搜索功能，能为用户提供更丰富全面且即时的信息交互体验，满足多样化的需求。|
 
 
-<br />
-
-**[⬆ 返回 API 目录](#API目录)**
-
-<br >
-
 
 ### 免费翻译API
 | API | 简介 |
